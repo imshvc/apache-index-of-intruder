@@ -1,0 +1,59 @@
+# OS-specific
+Thumbs.db
+ehthumbs.db
+.DS_Store
+desktop.ini
+
+# node dependencies
+node_modules/
+
+# build directories
+/build
+/dist
+
+# composer vendor
+/vendor
+
+# editor files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+
+# editor directories
+.vscode
+.idea
+
+# log files and databases
+*.log
+*.sql
+*.sqlite
+
+# compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.ocx
+*.sys
+*.o
+*.so
+*.dylib
+
+# ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# ignore private/secret files
+*.der
+*.key
+*.pem
+
+# misc web
+.env
+.dockerignore
