@@ -1,0 +1,11 @@
+{
+  "name": "apache-index-of-intruder",
+  "version": "1.0.0",
+  "description": "Recursively list files from an Apache \"Index of\" page",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nurudin Imsirovic",
+  "license": "GPL-2.0-only"
+}

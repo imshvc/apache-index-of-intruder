@@ -1,2 +1,0 @@
-# Apache "Index of" infiltrator
-
