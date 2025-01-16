@@ -51,5 +51,3 @@ https://imshvc.github.io/examples/apache-index-of/wp-includes/Text/Diff/Engine/s
 https://imshvc.github.io/examples/apache-index-of/wp-includes/Text/Diff/Engine/string.php
 https://imshvc.github.io/examples/apache-index-of/wp-includes/Text/Diff/Engine/xdiff.php
 ```
-
-See more on the [official tool page](https://imshvc.github.io/apache-index-of-intruder.html).
